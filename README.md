@@ -4,7 +4,7 @@ The Swift Playgound App was created for <a href="https://developer.apple.com/wwd
 
 ## Project
 
-In Jungle Rescue, the player's goal is to eliminate the pollutes before it fall in the forest. However, the player must be careful to not eliminate non-pollutes objects.
+In Jungle Rescue, the player's objective is to eliminate the pollutants before they fall into the forest. However, the player must be careful not to eliminate the non-polluting objects.
 
 This app was built with SwiftUI and SpriteKIT (Two frameworks that a I've never used before👨🏻‍💻)
 
